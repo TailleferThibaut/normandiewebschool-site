@@ -1,4 +1,4 @@
-baseURL = "https://normandiewebschool.fr"
+baseURL = "https://diagnostic-eco-nws.netlify.app/"
 enableRobotsTXT = true
 languageCode = "fr-fr"
 summaryLength = "10"
