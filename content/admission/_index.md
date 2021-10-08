@@ -8,7 +8,7 @@ banner:
   title-line-twho: ''
   subtitle: L’admission se fait en dehors de Parcours Sup. Pas de frais pour le traitement
     du dossier d’admission.
-  image: uploads/cursus-initial.jpg
+  image: uploads/cursus-initial2.jpg
 about:
   enable: true
   title: Les différentes étapes
